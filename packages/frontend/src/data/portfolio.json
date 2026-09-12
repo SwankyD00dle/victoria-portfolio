@@ -1,0 +1,4445 @@
+{
+  "settings": {
+    "name": "Victoria Tu",
+    "role": "UX Designer",
+    "heading": "Hi, I'm Victoria!",
+    "introduction": "I'm a product designer passionate about crafting delightful digital experiences through data-driven design.",
+    "currentRole": "✨ design @ cisco, prev. aws",
+    "portrait": {
+      "src": "/media/7894f81d9805.webp",
+      "width": 2352,
+      "height": 2854,
+      "alt": "Victoria Tu outdoors",
+      "caption": "",
+      "frame": "none"
+    },
+    "avatar": {
+      "src": "/media/c33c8a4a7c15.webp",
+      "width": 563,
+      "height": 606,
+      "alt": "Victoria Tu",
+      "caption": "",
+      "frame": "none"
+    },
+    "email": "victoriatudesign@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/tuvictoria/",
+    "resume": "/media/victoria-tu-resume.pdf",
+    "contactBody": [
+      {
+        "_type": "block",
+        "_key": "0",
+        "style": "h2",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0",
+            "text": "Let's get in touch! 💌",
+            "marks": []
+          }
+        ],
+        "markDefs": []
+      },
+      {
+        "_type": "block",
+        "_key": "1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "0",
+            "text": "I'd love the opportunity to connect with you. You can get in touch with me through email with the form below or by sending me a message through ",
+            "marks": []
+          },
+          {
+            "_type": "span",
+            "_key": "1",
+            "text": "LinkedIn",
+            "marks": [
+              "link0"
+            ]
+          },
+          {
+            "_type": "span",
+            "_key": "2",
+            "text": ".",
+            "marks": []
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "link0",
+            "_type": "link",
+            "href": "https://www.linkedin.com/in/tuvictoria/"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "_key": "about-0",
+        "paddingTop": 0,
+        "paddingBottom": 100,
+        "_type": "splitSection",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "0",
+            "style": "h3",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "0",
+                "text": "A little about me...",
+                "marks": []
+              }
+            ],
+            "markDefs": []
+          },
+          {
+            "_type": "block",
+            "_key": "1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "0",
+                "text": "Hi! My name is Victoria and I am currently designing for Cisco's Networking team. I previously designed for Direct Connect at AWS, and have experience designing for B2B enterprise products across desktop and mobile. ",
+                "marks": []
+              }
+            ],
+            "markDefs": []
+          },
+          {
+            "_type": "block",
+            "_key": "2",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "0",
+                "text": "I believe that good design comes from good research, and work from a data-driven approach.",
+                "marks": []
+              }
+            ],
+            "markDefs": []
+          }
+        ],
+        "image": {
+          "src": "/media/f990ecb61842.webp",
+          "width": 2352,
+          "height": 2854,
+          "alt": "A little about me... Hi! My name is Victoria and I am currently designing for Cisco's Networking tea",
+          "caption": "",
+          "frame": "none"
+        },
+        "textGrid": {
+          "start": 9,
+          "end": 13
+        },
+        "mediaGrid": {
+          "start": 1,
+          "end": 8
+        }
+      },
+      {
+        "_key": "about-1",
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "_type": "splitSection",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "0",
+            "style": "h3",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "0",
+                "text": "When I'm not at my desk...",
+                "marks": []
+              }
+            ],
+            "markDefs": []
+          },
+          {
+            "_type": "block",
+            "_key": "1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "0",
+                "text": "You can probably find me daydreaming outdoors on a hike, dabbling in photography, or just grabbing coffee with my friends at our favorite cafes. And occasionally... you'll find me back at my desk, catching up on my favorite shows or reading a good book with a window cracked open. As of right now, I'm reading ",
+                "marks": []
+              },
+              {
+                "_type": "span",
+                "_key": "1",
+                "text": "Kingdom of Ash",
+                "marks": [
+                  "strong"
+                ]
+              },
+              {
+                "_type": "span",
+                "_key": "2",
+                "text": "!",
+                "marks": []
+              }
+            ],
+            "markDefs": []
+          }
+        ],
+        "image": {
+          "src": "/media/759865d7da4b.webp",
+          "width": 2400,
+          "height": 1800,
+          "alt": "When I'm not at my desk... You can probably find me daydreaming outdoors on a hike, dabbling in phot",
+          "caption": "",
+          "frame": "none"
+        },
+        "textGrid": {
+          "start": 1,
+          "end": 5
+        },
+        "mediaGrid": {
+          "start": 6,
+          "end": 13
+        }
+      },
+      {
+        "_key": "about-2",
+        "paddingTop": 100,
+        "paddingBottom": 100,
+        "_type": "gallerySection",
+        "layout": "carousel",
+        "columns": 3,
+        "images": [
+          {
+            "src": "/media/614691606c1c.webp",
+            "width": 2400,
+            "height": 3000,
+            "alt": "about gallery image 1",
+            "caption": "",
+            "frame": "none"
+          },
+          {
+            "src": "/media/1ea33425d235.webp",
+            "width": 2350,
+            "height": 2350,
+            "alt": "about gallery image 2",
+            "caption": "",
+            "frame": "none"
+          },
+          {
+            "src": "/media/30f3a6acdb9d.webp",
+            "width": 962,
+            "height": 1280,
+            "alt": "about gallery image 3",
+            "caption": "",
+            "frame": "none"
+          },
+          {
+            "src": "/media/38a783877bef.webp",
+            "width": 948,
+            "height": 1268,
+            "alt": "about gallery image 4",
+            "caption": "",
+            "frame": "none"
+          },
+          {
+            "src": "/media/327f8d978e99.webp",
+            "width": 730,
+            "height": 792,
+            "alt": "about gallery image 5",
+            "caption": "",
+            "frame": "none"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "_id": "project-awsinternship",
+      "title": "Amazon UX Design Internship",
+      "subtitle": "",
+      "slug": "awsinternship",
+      "order": 0,
+      "thumbnail": {
+        "src": "/media/a922f4bc5def.webp",
+        "width": 1079,
+        "height": 1079,
+        "alt": "Amazon UX Design Internship thumbnail",
+        "caption": "",
+        "frame": "none"
+      },
+      "visibility": "public",
+      "hero": {
+        "title": "Amazon UX Design Internship",
+        "subtitle": "with the AWS Infrastructure Services UX team",
+        "background": "#262E3B",
+        "textColor": "#ffffff",
+        "textGrid": {
+          "start": 1,
+          "end": 8
+        },
+        "mediaGrid": {
+          "start": 8,
+          "end": 13
+        },
+        "image": {
+          "src": "/media/b7a813f3dcb4.webp",
+          "width": 1064,
+          "height": 763,
+          "alt": "Amazon UX Design Internship",
+          "caption": "",
+          "frame": "browser"
+        }
+      },
+      "accent": "#FF9900",
+      "sections": [
+        {
+          "_key": "awsinternship-1",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Overview",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "During the summer of 2022, I had the privilege of embarking on a 12-week internship with the AWS Infrastructure Services UX (AIS UX) team located in East Palo Alto, CA.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The internship allowed me the opportunity to collaborate closely with talented designers and engineers across five related AWS services. The experience proved to be fun and enriching, providing me with an invaluable platform for personal and professional growth. Here, I'd like to share some of the highlights and key takeaways from my three-month journey.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "awsinternship-2",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Highlights",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "During the course of 12 weeks, I achieved significant milestones, including:",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Spearheading the creation of an innovative mobile experience for a ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "network monitoring dashboard",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": ", employing the Cloudscape design system to ensure a seamless and intuitive user interface",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Conducting user interviews and meticulously crafting personas that now serve as valuable guides in designing multiple infrastructure tools, enabling a",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": " user-centric approach",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " throughout the development process",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Effectively communicating the customer experience to key stakeholders, utilizing a comprehensive user journey map that unveiled existing UX gaps and ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "identifying prime design opportunities",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " for improvement",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Devising a ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "strategic approach to prioritize multiple action items",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " by crafting compelling user stories aligned with major user goals, facilitating a focused and efficient workflow",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "awsinternship-3",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Takeaways",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Sometimes, the answer doesn't exist.. yet.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Throughout my internship, I realized the importance of being comfortable with ambiguity. As a designer, I value making informed decisions backed by thorough research. However, I discovered that in certain situations, the answers may not yet exist. I learned to take the initiative in seeking these answers through user research—and seeking insights from subject matter experts, engineering partners, researchers, and fellow designers when customer feedback wasn't readily available.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Know the guardrails of your design system.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Prior to this internship, my experience with existing design systems was limited. In my personal projects, I enjoyed the freedom of building custom components as needed. However, during my internship, I had the opportunity to familiarize myself with the AWS design system and its best practices. I realized the value of designing within the guardrails of a well-established system, as it ensures a consistent experience for customers. I also learned that design systems are living entities, and at times, it's necessary to challenge their boundaries to drive innovation.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "\"UX is a conversation.\"",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "This statement, shared by a more senior designer early in my internship, has resonated with me ever since. It encapsulates the idea that communication is fundamental to successful design. I discovered that inclusive and collaborative design processes are more enjoyable and effective. Engaging our engineering partners in the conversation allowed me to gather not only design feedback, but also insights on technical feasibility. This multidisciplinary approach enhanced the overall quality of the design outcomes.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "awsinternship-4",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "It was an unforgettable summer!",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Reflecting back, I amazed myself with how much I learned during this internship. I vividly remember starting off the internship asking: \"What is an API call?\" And now, 12 weeks later, I can proudly say that I have a solid understanding of what an API call is!",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I'm immensely grateful for the opportunity to learn and develop as a designer under the guidance of the AIS team. Their mentorship has been invaluable, and I look forward to carrying these newfound insights and skills into my future endeavors as a designer.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/5c45d9a66f54.webp",
+            "width": 1729,
+            "height": 1900,
+            "alt": "*some internal keywords replaced",
+            "caption": "*some internal keywords replaced",
+            "frame": "none"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 6
+          },
+          "mediaGrid": {
+            "start": 7,
+            "end": 13
+          }
+        },
+        {
+          "_key": "awsinternship-5",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "gallerySection",
+          "layout": "slider",
+          "columns": 3,
+          "images": [
+            {
+              "src": "/media/c0472660cc28.webp",
+              "width": 2304,
+              "height": 1536,
+              "alt": "Seattle sailboat tour with part of the AIS team",
+              "caption": "Seattle sailboat tour with part of the AIS team",
+              "frame": "none"
+            },
+            {
+              "src": "/media/7c48c3e00689.webp",
+              "width": 875,
+              "height": 663,
+              "alt": "Last day of internship at SJC18",
+              "caption": "Last day of internship at SJC18",
+              "frame": "none"
+            },
+            {
+              "src": "/media/ec57e5733fe0.webp",
+              "width": 2400,
+              "height": 3200,
+              "alt": "UX intern boba run",
+              "caption": "UX intern boba run",
+              "frame": "none"
+            },
+            {
+              "src": "/media/64f643a718eb.webp",
+              "width": 2400,
+              "height": 1800,
+              "alt": "A huge shout out to my team for having me over summer!",
+              "caption": "A huge shout out to my team for having me over summer!",
+              "frame": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "project-docbot",
+      "title": "DocBot • Capstone Project",
+      "subtitle": "A mobile healthcare application with a chatbot companion",
+      "slug": "docbot",
+      "order": 1,
+      "thumbnail": {
+        "src": "/media/21f946c1fc4b.webp",
+        "width": 2160,
+        "height": 2160,
+        "alt": "DocBot • Capstone Project thumbnail",
+        "caption": "",
+        "frame": "none"
+      },
+      "visibility": "public",
+      "hero": {
+        "title": "DocBot",
+        "subtitle": "A mobile healthcare application with a chatbot companion",
+        "background": "#2C5F9A",
+        "textColor": "#ffffff",
+        "textGrid": {
+          "start": 1,
+          "end": 9
+        },
+        "mediaGrid": {
+          "start": 9,
+          "end": 13
+        },
+        "image": {
+          "src": "/media/52972edc2167.webp",
+          "width": 2160,
+          "height": 2160,
+          "alt": "DocBot • Capstone Project",
+          "caption": "",
+          "frame": "none"
+        }
+      },
+      "accent": "#247EE5",
+      "sections": [
+        {
+          "_key": "docbot-1",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The challenge",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "According to the National Library of Medicine, nine out of ten adults struggle with health literacy.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Personal health literacy can be defined as the ability to find, understand, and utilize information to make informed decisions related to health and wellness.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "How might we help adults feel more confident in their ability to find and utilize health information?",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The idea",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "DocBot is a conceptual mobile application featuring an embedded healthcare chatbot companion. Its inception can be traced back to a literature review I conducted, which explored the growing adoption of chatbots in the service sector, particularly in customer service applications.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "As a designer with a background in health, I wanted to brainstorm ways that we could leverage chatbot technology to help users increase their personal health literacy.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "8",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "9",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Timeline",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "10",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "August 2022 - December 2022",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "11",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Role",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "12",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "UX Designer and UX Researcher",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "docbot-2",
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "_type": "mediaSection",
+          "image": {
+            "src": "/media/b19bdd5cdb42.webp",
+            "width": 2400,
+            "height": 1478,
+            "alt": "This is your heading You can write here as much as you want, this text will always look nice, whethe",
+            "caption": "",
+            "frame": "none"
+          },
+          "mediaGrid": {
+            "start": 1,
+            "end": 13
+          }
+        },
+        {
+          "_key": "docbot-3",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "User requirement gathering",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Initial survey responses (n=21) revealed that the primary goals users sought to achieve through the application were ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "scheduling appointments",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " and ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3",
+                  "text": "accessing medical information",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4",
+                  "text": ".",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Furthermore, the respondents expressed a notable concern regarding the accuracy of information provided by both the chatbot and the application. This sentiment aligned with my previous literary research findings:",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Users exhibit a general openness to engaging with chatbots, yet often express a ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "lack of familiarity",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " and ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3",
+                  "text": "hesitation",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4",
+                  "text": " towards artificial intelligence technology.",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "number",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Striking the right balance in chatbot design is crucial, as both an excessively human-like or insufficiently human-like appearance can lead to a negative user experience, evoking the ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "uncanny valley phenomenon",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": ".",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "number",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Users' perception of chatbots is influenced by ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "visual presentation, identity cues, conversational style, and gender stereotypes",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": ".",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "number",
+              "level": 1
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "docbot-4",
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "_type": "mediaSection",
+          "image": {
+            "src": "/media/db743902a656.webp",
+            "width": 2200,
+            "height": 1068,
+            "alt": "docbot project image",
+            "caption": "",
+            "frame": "none"
+          },
+          "mediaGrid": {
+            "start": 1,
+            "end": 13
+          }
+        },
+        {
+          "_key": "docbot-5",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Ideation, design, prototype",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "There were two major areas of focus for the design of DocBot: the chatbot and the application itself.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "My goal for the chatbot was to strike a balance in the ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "messaging tone",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " and ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3",
+                  "text": "pacing",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4",
+                  "text": " to avoid the pitfalls of becoming excessively human-like and triggering the unsettling sensation known as the uncanny valley.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Due to the text-heavy nature of the information repository, I thought through ways to break down the information into easily digestible chunks. I opted to incorporate ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "descriptive illustrations",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": " and ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3",
+                  "text": "dropdown text sections",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4",
+                  "text": " to enhance the user experience and ensure that the content was easily navigable and manageable.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "docbot-6",
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "_type": "mediaSection",
+          "image": {
+            "src": "/media/f0c3f222bb05.webp",
+            "width": 2400,
+            "height": 1478,
+            "alt": "docbot project image",
+            "caption": "",
+            "frame": "none"
+          },
+          "mediaGrid": {
+            "start": 1,
+            "end": 13
+          }
+        },
+        {
+          "_key": "docbot-7",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Usability testing and analysis",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Through usability testing (n = 13), I identified three friction areas for users.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "#1. Despite being informed that the messaging system utilized a chatbot, a few users were inadvertently misled by the",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": " ",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": "stock image avatar, mistakenly believing they were engaging in a conversation with a real person.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "#2. While searching for information about a particular medical condition, users anticipated finding a button or link within the \"When to see a doctor\" section that would enable them to schedule an appointment with their healthcare provider.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "#3. Users encountered difficulties when attempting to update crucial medical information, such as allergies and prescribed medications. Although they searched within the settings tab, they overlooked the \"Profile\" section as they assumed it only contained basic identifying details like name and contact information",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "docbot-8",
+          "paddingTop": 60,
+          "paddingBottom": 0,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Design iteration",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To enhance the user experience, I implemented a series of minor changes in three key areas of friction:",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "#1. Chatbot avatar",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To reinforce the understanding that users are interacting with a chatbot and not a human, I replaced the stock photo avatar with an engaging illustration. This visual change helps users remember the nature of the interaction.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "#2. Streamlined appointment creation",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Under the \"When to see a doctor\" section, I incorporated a link button that allows users to directly schedule appointments. This eliminates the need for users to navigate to the appointments screen or request an appointment through the chatbot, making the process more efficient.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "#3. Refined UX copy",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To provide users with clearer context regarding the information stored, I renamed the 'Profile' settings tab to 'Medical Information.' This modification offers users a better understanding of the type of data contained in that section.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "8",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "In addition to these improvements, I introduced a comprehensive onboarding tutorial for first-time users.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "9",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "This tutorial serves as a guide, familiarizing users with the application's layout and features. It can be accessed at any time through the settings menu, ensuring users can refer back to it whenever needed.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "docbot-9",
+          "paddingTop": 60,
+          "paddingBottom": 0,
+          "_type": "mediaSection",
+          "image": {
+            "src": "/media/1f4b8394b8f2.webp",
+            "width": 2400,
+            "height": 1478,
+            "alt": "docbot project image",
+            "caption": "",
+            "frame": "none"
+          },
+          "mediaGrid": {
+            "start": 1,
+            "end": 13
+          }
+        },
+        {
+          "_key": "docbot-10",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Reflection",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Combining my background in healthcare with my passion for technology and design, this project provided an exciting opportunity to merge my interests. However, like any other project, it was not without its constraints.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Constraint #1: Participant demographic",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The usability testing participants consisted solely of college students in their early 20s. This skewed the gathered data, as younger participants tend to be more comfortable with mobile applications and more receptive to adopting new technology. To ensure a more representative user base, a diverse range of participants would have been ideal, providing more accurate insights.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Constraint #2: Engineering feasibility",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "During this capstone project, the design possibilities were limitless within the confines of Figma. However, in a real-world application development scenario, engineering feasibility would play a significant role in both the overall application design and the implementation of the chatbot.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Constraint #3: Legal considerations",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "In an ideal DocBot application, all doctors would be part of the DocBot network, enabling users to easily make appointments and manage their medical records. However, the real-world implementation would require adherence to legal expectations for protected health information to ensure compliance with privacy and security guidelines.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "8",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Constraint #4: Time",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "9",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "If I were to continue working on this project, I would conduct a second phase of usability testing to validate the updates made to the original design. While the changes were minor, obtaining concrete data showcasing improvements in task completion time and success rates would be valuable.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "10",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Nonetheless, I thoroughly enjoyed the opportunity to showcase my design skills, which I have honed over the past two years. This project allowed me to combine research and design, reaffirming my passion for the field. As a designer, I strive to be well-rounded and welcome any chance to apply user research methods to my work.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "11",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "12",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "If you are interested in reading my full report, you can access it ",
+                  "marks": [
+                    "em"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "here",
+                  "marks": [
+                    "link0",
+                    "em"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": ". Send me a email or a message on LinkedIn if you would like to discuss my work in more detail! =)",
+                  "marks": [
+                    "em"
+                  ]
+                }
+              ],
+              "markDefs": [
+                {
+                  "_key": "link0",
+                  "_type": "link",
+                  "href": "https://drive.google.com/file/d/1wuv6oBVD1a1TvqTLfXAZbAQW1cG1KU1J/view?usp=sharing"
+                }
+              ]
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        }
+      ]
+    },
+    {
+      "_id": "project-integro",
+      "title": "Integro • Website Concept",
+      "subtitle": "A new experience designed to help simplify the process of selling software products and services using hybrid-cloud technology",
+      "slug": "integro",
+      "order": 2,
+      "thumbnail": {
+        "src": "/media/6232834da29a.webp",
+        "width": 2160,
+        "height": 2160,
+        "alt": "Integro • Website Concept thumbnail",
+        "caption": "",
+        "frame": "none"
+      },
+      "visibility": "protected"
+    },
+    {
+      "_id": "project-costco-redesign",
+      "title": "CostcoGrocery • Website Redesign",
+      "subtitle": "A redesigned CostcoGrocery with an improved online shopping experience and\nrefreshed visual design",
+      "slug": "costco-redesign",
+      "order": 3,
+      "thumbnail": {
+        "src": "/media/1474e0be90b5.webp",
+        "width": 2160,
+        "height": 2160,
+        "alt": "CostcoGrocery • Website Redesign thumbnail",
+        "caption": "",
+        "frame": "none"
+      },
+      "visibility": "public",
+      "hero": {
+        "title": "CostcoGrocery • Website Redesign",
+        "subtitle": "A redesigned CostcoGrocery with an improved online shopping experience and refreshed visual design",
+        "background": "#4584B2",
+        "textColor": "#ffffff",
+        "textGrid": {
+          "start": 1,
+          "end": 9
+        },
+        "mediaGrid": {
+          "start": 9,
+          "end": 13
+        },
+        "image": {
+          "src": "/media/89769ac5ee2a.webp",
+          "width": 2160,
+          "height": 2160,
+          "alt": "CostcoGrocery • Website Redesign",
+          "caption": "",
+          "frame": "none"
+        }
+      },
+      "accent": "#4584B2",
+      "sections": [
+        {
+          "_key": "costco-redesign-1",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Context",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "In the previous semester, I worked in a team of 4 evaluate the user experience of the CostcoGrocery website through usability testing. After the completion of the project, I spent the summer redesigning the website to solve the main areas of friction that users were experiencing.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Timeline",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Summer 2021",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Role",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "UX Designer (and previously 1 of 4 UX Researchers)",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Tools",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Figma, Notability",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "costco-redesign-2",
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "_type": "mediaSection",
+          "image": {
+            "src": "/media/fee48a7aad31.webp",
+            "width": 2400,
+            "height": 1605,
+            "alt": "costco-redesign project image",
+            "caption": "",
+            "frame": "none"
+          },
+          "mediaGrid": {
+            "start": 1,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-3",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The challenge",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "How might we decrease road bumps and streamline the online shopping experience for CostcoGrocery?",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Through usability testing (n = 6), I gained valuable insights into the primary frustrations that users encountered while navigating the website. The main user pain points included:",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "a cluttered homepage that impeded intuitive navigation",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "inconsistency in the displayed items within search results",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "difficulty determining the price of certain items",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "tediousness when requesting live chat support",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "costco-redesign-4",
+          "paddingTop": 60,
+          "paddingBottom": 20,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The personas",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Drawing from the insights gained in my previous usability study project, I crafted three personas representing typical CostcoGrocery users.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "These personas were carefully constructed to embody common use cases, capturing the diverse goals and needs of the user base.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "costco-redesign-5",
+          "paddingTop": 20,
+          "paddingBottom": 60,
+          "_type": "gallerySection",
+          "layout": "grid",
+          "columns": 3,
+          "images": [
+            {
+              "src": "/media/89a8aff7fa80.webp",
+              "width": 1024,
+              "height": 768,
+              "alt": "costco-redesign gallery image 1",
+              "caption": "",
+              "frame": "none"
+            },
+            {
+              "src": "/media/a91f6e1e95fc.webp",
+              "width": 1024,
+              "height": 768,
+              "alt": "costco-redesign gallery image 2",
+              "caption": "",
+              "frame": "none"
+            },
+            {
+              "src": "/media/57c1ffeece7e.webp",
+              "width": 1024,
+              "height": 768,
+              "alt": "costco-redesign gallery image 3",
+              "caption": "",
+              "frame": "none"
+            }
+          ]
+        },
+        {
+          "_key": "costco-redesign-6",
+          "paddingTop": 60,
+          "paddingBottom": 40,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The approach",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To effectively plan the redesign, I constructed three user flow diagrams, each dedicated to mapping out the experiences of three commonly encountered user tasks.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I used the user flows to inform my design decisions and prioritize elements essential for a positive shopping experience. This methodical approach allowed me to align the interface design with the user's needs and streamline their journey with CostcoGrocery.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "costco-redesign-7",
+          "paddingTop": 0,
+          "paddingBottom": 60,
+          "_type": "gallerySection",
+          "layout": "grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "/media/ef4e8518d57e.webp",
+              "width": 1920,
+              "height": 534,
+              "alt": "costco-redesign gallery image 1",
+              "caption": "",
+              "frame": "none"
+            },
+            {
+              "src": "/media/69030426cb00.webp",
+              "width": 1920,
+              "height": 654,
+              "alt": "costco-redesign gallery image 2",
+              "caption": "",
+              "frame": "none"
+            },
+            {
+              "src": "/media/b97a86c9eadb.webp",
+              "width": 2248,
+              "height": 462,
+              "alt": "costco-redesign gallery image 3",
+              "caption": "",
+              "frame": "none"
+            }
+          ]
+        },
+        {
+          "_key": "costco-redesign-8",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Ideation",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To get a clearer vision of content and information layout across various screens, I started off with a few sketches to explore the overall composition and refine my design direction.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/b3371e5e7875.webp",
+            "width": 1084,
+            "height": 1402,
+            "alt": "Ideation To get a clearer vision of content and information layout across various screens, I started",
+            "caption": "",
+            "frame": "none"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 7
+          },
+          "mediaGrid": {
+            "start": 8,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-9",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Wireframe",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Putting function before form,",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I developed a collection of low-fidelity wireframes, intentionally employing minimal color usage to focus on functionality before integrating visual design work.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/c5e98a8a18fc.webp",
+            "width": 1440,
+            "height": 1464,
+            "alt": "Wireframe Putting function before form, I developed a collection of low-fidelity wireframes, intenti",
+            "caption": "",
+            "frame": "laptop"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 6
+          },
+          "mediaGrid": {
+            "start": 7,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-10",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Final design",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Utilizing Figma, I translated my wireframes into high-fidelity designs, bringing the user experience to life.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I specifically targeted the four pain points uncovered through usability testing. My goal was to create a visually harmonious interface, establish coherence across interactions, provide comprehensive and relevant information, and streamline the form-filling experience.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/66b8f8c4d30d.webp",
+            "width": 1440,
+            "height": 3072,
+            "alt": "Try scrolling :)",
+            "caption": "Try scrolling :)",
+            "frame": "laptop"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 6
+          },
+          "mediaGrid": {
+            "start": 7,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-11",
+          "paddingTop": 40,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Problem focus",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Visual clutter",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Users felt overwhelmed by excessive information and a rapid delivery. The top row of hyperlinks also suffered from visibility issues, as users were naturally drawn to the main navigation bar.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To address these concerns, I decided to remove the top row of hyperlinks. Users frequently overlooked them, and they offered no significant improvement to the shopping experience.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To enhance user navigation and comprehension, a prominent banner showcases ongoing deals and savings, similar to the current layout on CostcoGrocery. Directly beneath, featured categories take center stage, which can be dynamically updated to align with seasons, holidays, or special occasions, ensuring a fresh and relevant browsing experience.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/df466419f492.webp",
+            "width": 1440,
+            "height": 2640,
+            "alt": "Redesigned CostcoGrocery homepage",
+            "caption": "Redesigned CostcoGrocery homepage",
+            "frame": "laptop"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 6
+          },
+          "mediaGrid": {
+            "start": 7,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-12",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Problem focus",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Inconsistency",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I implemented a cohesive layout that prioritized consistency and clarity to help users feel more confident in finding the item they are searching for. Consistent design across the website decreases cognitive load and helps users quickly make informed designs, ultimately facilitating a more efficient and gratifying shopping experience.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/c6ca6758b91f.webp",
+            "width": 1441,
+            "height": 2048,
+            "alt": "Product search results page",
+            "caption": "Product search results page",
+            "frame": "laptop"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 6
+          },
+          "mediaGrid": {
+            "start": 7,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-13",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Problem focus",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Lack of information",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I included pricing details, product specifications, and insightful reviews for every product. All visitors to the website, whether new or returning, have equal access to crucial details that inform their purchasing decisions. By promoting transparency and providing a wealth of information, I sought to cultivate trust and confidence in the platform to inspire customer loyalty.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/d3eeae60acec.webp",
+            "width": 1440,
+            "height": 3072,
+            "alt": "Problem focus Lack of information I included pricing details, product specifications, and insightful",
+            "caption": "",
+            "frame": "laptop"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 6
+          },
+          "mediaGrid": {
+            "start": 7,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-14",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Problem focus",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Form fatigue",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "To simplify the process to connecting to live chat support, I reduced the information required in the chat form to only the most essential details. I aimed to expedite the connection between customers and representatives, sparing users from the fatigue that often accompanies lengthy contact forms.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/5b18d95187ad.webp",
+            "width": 1540,
+            "height": 1124,
+            "alt": "Chat support screen",
+            "caption": "Chat support screen",
+            "frame": "none"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 5
+          },
+          "mediaGrid": {
+            "start": 6,
+            "end": 13
+          }
+        },
+        {
+          "_key": "costco-redesign-15",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "gallerySection",
+          "layout": "carousel",
+          "columns": 2,
+          "images": [
+            {
+              "src": "/media/047c9f3d1a91.webp",
+              "width": 1440,
+              "height": 2640,
+              "alt": "costco-redesign gallery image 1",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/32590b2e7819.webp",
+              "width": 1441,
+              "height": 2048,
+              "alt": "costco-redesign gallery image 2",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/ff6d65d38c1e.webp",
+              "width": 1440,
+              "height": 1464,
+              "alt": "costco-redesign gallery image 3",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/1b1b68031f0c.webp",
+              "width": 1440,
+              "height": 1024,
+              "alt": "costco-redesign gallery image 4",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/8efcd6ee23b0.webp",
+              "width": 1440,
+              "height": 1848,
+              "alt": "costco-redesign gallery image 5",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/c2b6bd06b90e.webp",
+              "width": 1440,
+              "height": 1848,
+              "alt": "costco-redesign gallery image 6",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/1ad9379e559d.webp",
+              "width": 1440,
+              "height": 1880,
+              "alt": "costco-redesign gallery image 7",
+              "caption": "",
+              "frame": "laptop"
+            },
+            {
+              "src": "/media/eaf8e69f65cf.webp",
+              "width": 1440,
+              "height": 948,
+              "alt": "costco-redesign gallery image 8",
+              "caption": "",
+              "frame": "laptop"
+            }
+          ]
+        },
+        {
+          "_key": "costco-redesign-16",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Reflection",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "What did I learn from this project?",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "My primary objective was to uphold the essence of the existing Costco website and focus on refining and optimizing the elements that resonated well with users while simplifying areas that detracted from their overall experience.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I developed a design strategy that focused on achievable improvements while considering the practical implications of implementation. This approach ensured that my design decisions were not only desirable from a user experience perspective but also feasible within the context of the company's operational realities.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        }
+      ]
+    },
+    {
+      "_id": "project-diem-app",
+      "title": "Diem • App Concept",
+      "subtitle": "A mobile app concept to make requesting shift coverage and shift swapping more efficient",
+      "slug": "diem-app",
+      "order": 4,
+      "thumbnail": {
+        "src": "/media/d008618c3160.webp",
+        "width": 2160,
+        "height": 2160,
+        "alt": "Diem • App Concept thumbnail",
+        "caption": "",
+        "frame": "none"
+      },
+      "visibility": "public",
+      "hero": {
+        "title": "Diem",
+        "subtitle": "A mobile app concept to make requesting shift coverage and shift swapping more efficient",
+        "background": "#C1E6F4",
+        "textColor": "#ffffff",
+        "textGrid": {
+          "start": 1,
+          "end": 9
+        },
+        "mediaGrid": {
+          "start": 9,
+          "end": 13
+        },
+        "image": {
+          "src": "/media/0836a5c316b6.webp",
+          "width": 2160,
+          "height": 2160,
+          "alt": "Diem • App Concept",
+          "caption": "",
+          "frame": "none"
+        }
+      },
+      "accent": "#6DAAC2",
+      "sections": [
+        {
+          "_key": "diem-app-1",
+          "paddingTop": 100,
+          "paddingBottom": 0,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The problem",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "How might we make exchanging work shifts more effortless to revolutionize efficiency and convenience in the workplace?",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "While working a per diem job in healthcare during my first summer of grad school. I was drawn to the flexibility of choosing my work shifts, but soon discovered a common pain point shared by many colleagues.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Unlike full-time employees, per diem workers weren't provided with work phones, yet we could only use certain programs like our work emails on registered devices. As a result, we couldn’t always access our work email, forcing our colleagues seeking time off to resort to texting our personal phones for shift coverage.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The idea",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Although the system functioned, it proved to be inefficient and tedious. It was clear that both per diem and full-time employees desired a better solution. This inspired me to create Diem—an innovative platform designed to streamline the lives of per diem employees like myself and provide us with more time to seize the day.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "8",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Timeline",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "9",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Summer 2021",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "10",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Role",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "11",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "UX Designer and Prototyper",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "12",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Tools",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "13",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Figma",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "diem-app-2",
+          "paddingTop": 60,
+          "paddingBottom": 0,
+          "_type": "mediaSection",
+          "image": {
+            "src": "/media/6034a0b7f810.webp",
+            "width": 2400,
+            "height": 1478,
+            "alt": "diem-app project image",
+            "caption": "",
+            "frame": "none"
+          },
+          "mediaGrid": {
+            "start": 1,
+            "end": 13
+          }
+        },
+        {
+          "_key": "diem-app-3",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Personas",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Based off of 5 informal interviews conducted with my colleagues at work, I created two personas based off common user goals and pain points.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "diem-app-4",
+          "paddingTop": 30,
+          "paddingBottom": 100,
+          "_type": "columnsSection",
+          "columns": [
+            {
+              "_key": "0",
+              "body": [
+                {
+                  "_type": "block",
+                  "_key": "0",
+                  "style": "h4",
+                  "children": [
+                    {
+                      "_type": "span",
+                      "_key": "0",
+                      "text": "Fallon, Per Diem",
+                      "marks": []
+                    }
+                  ],
+                  "markDefs": []
+                },
+                {
+                  "_type": "block",
+                  "_key": "1",
+                  "style": "normal",
+                  "children": [
+                    {
+                      "_type": "span",
+                      "_key": "0",
+                      "text": "Pain point",
+                      "marks": [
+                        "strong"
+                      ]
+                    },
+                    {
+                      "_type": "span",
+                      "_key": "1",
+                      "text": ": Receiving too many messages from full-time staff asking for coverage. Feels socially pressured to accept shifts when contacted directly even when she knows she's busy",
+                      "marks": []
+                    }
+                  ],
+                  "markDefs": []
+                },
+                {
+                  "_type": "block",
+                  "_key": "2",
+                  "style": "normal",
+                  "children": [
+                    {
+                      "_type": "span",
+                      "_key": "0",
+                      "text": "Goal",
+                      "marks": [
+                        "strong"
+                      ]
+                    },
+                    {
+                      "_type": "span",
+                      "_key": "1",
+                      "text": ": Review shift coverage requests on her own time. Have more freedom in selecting which shifts to pick up",
+                      "marks": []
+                    }
+                  ],
+                  "markDefs": []
+                }
+              ],
+              "image": {
+                "src": "/media/1c6a644a90f7.webp",
+                "width": 2400,
+                "height": 1350,
+                "alt": "Fallon, Per Diem Pain point : Receiving too many messages from full-time staff a",
+                "caption": "",
+                "frame": "none"
+              }
+            },
+            {
+              "_key": "1",
+              "body": [
+                {
+                  "_type": "block",
+                  "_key": "0",
+                  "style": "h4",
+                  "children": [
+                    {
+                      "_type": "span",
+                      "_key": "0",
+                      "text": "Scarlett, Full Time",
+                      "marks": []
+                    }
+                  ],
+                  "markDefs": []
+                },
+                {
+                  "_type": "block",
+                  "_key": "1",
+                  "style": "normal",
+                  "children": [
+                    {
+                      "_type": "span",
+                      "_key": "0",
+                      "text": "Pain point",
+                      "marks": [
+                        "strong"
+                      ]
+                    },
+                    {
+                      "_type": "span",
+                      "_key": "1",
+                      "text": ": Often goes through long wait times when requesting coverage from per diems. Reaching out to per diem staff feels inefficient and unreliable. Feels like a nuisance for constantly asking for updates and requesting coverage",
+                      "marks": []
+                    }
+                  ],
+                  "markDefs": []
+                },
+                {
+                  "_type": "block",
+                  "_key": "2",
+                  "style": "normal",
+                  "children": [
+                    {
+                      "_type": "span",
+                      "_key": "0",
+                      "text": "Goal",
+                      "marks": [
+                        "strong"
+                      ]
+                    },
+                    {
+                      "_type": "span",
+                      "_key": "1",
+                      "text": ": Wants to be able to request shift coverage efficiently",
+                      "marks": []
+                    }
+                  ],
+                  "markDefs": []
+                }
+              ],
+              "image": {
+                "src": "/media/dea1737c765c.webp",
+                "width": 2400,
+                "height": 1350,
+                "alt": "Scarlett, Full Time Pain point : Often goes through long wait times when request",
+                "caption": "",
+                "frame": "none"
+              }
+            }
+          ]
+        },
+        {
+          "_key": "diem-app-5",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "User flow",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I aimed to optimize user efficiency by minimizing interactions required to achieve the two major goals.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I designed two user flow diagrams—one for accepting shift coverage requests and another for requesting coverage—to identify the essential screens needed to accomplish each goal.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/4e2b8a4eae39.webp",
+            "width": 1783,
+            "height": 1655,
+            "alt": "User flow I aimed to optimize user efficiency by minimizing interactions required to achieve the two",
+            "caption": "",
+            "frame": "none"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 7
+          },
+          "mediaGrid": {
+            "start": 8,
+            "end": 13
+          }
+        },
+        {
+          "_key": "diem-app-6",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Ideation",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "When I began sketching, my primary objective was to generate ideas that would lead to an intuitively designed interface.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I wanted users to grasp the functionality of the app without investing excessive time in exploration. Drawing inspiration from popular mobile calendar apps, I designed the shift acceptance feature on Diem to closely resemble the process of adding events to a mobile calendar, a familiar design patterns for many users.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 1,
+            "end": 9
+          }
+        },
+        {
+          "_key": "diem-app-7",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "gallerySection",
+          "layout": "grid",
+          "columns": 3,
+          "images": [
+            {
+              "src": "/media/77663262df8c.webp",
+              "width": 765,
+              "height": 1156,
+              "alt": "diem-app gallery image 1",
+              "caption": "",
+              "frame": "none"
+            },
+            {
+              "src": "/media/2d24da950b71.webp",
+              "width": 776,
+              "height": 1302,
+              "alt": "diem-app gallery image 2",
+              "caption": "",
+              "frame": "none"
+            },
+            {
+              "src": "/media/98a0b7a6380c.webp",
+              "width": 748,
+              "height": 1412,
+              "alt": "diem-app gallery image 3",
+              "caption": "",
+              "frame": "none"
+            }
+          ]
+        },
+        {
+          "_key": "diem-app-8",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Wireframe",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "One key usability gap I noted from the low-fidelity wireframe was the need to address how users could easily access and explore shifts scheduled further in advance.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/80033611fe54.webp",
+            "width": 375,
+            "height": 850,
+            "alt": "Wireframe One key usability gap I noted from the low-fidelity wireframe was the need to address how ",
+            "caption": "",
+            "frame": "phone"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 8
+          },
+          "mediaGrid": {
+            "start": 9,
+            "end": 13
+          }
+        },
+        {
+          "_key": "diem-app-9",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "splitSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Final design",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "With the aim of capturing the spirit of seizing the day, I crafted a visually bold and energizing design.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Considering that accepting shifts is the core user task, I ensured that users could accomplish this seamlessly from various areas within the app: in the home screen, shifts page, and direct messages section.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Additionally, I introduced a calendar view in the shifts tab, empowering users with a visual representation of available shifts and those they have already accepted. This feature addresses the usability gap previously noted in my design, allowing users to now explore and secure future shifts.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "image": {
+            "src": "/media/eb96ab31e086.webp",
+            "width": 375,
+            "height": 812,
+            "alt": "Final design With the aim of capturing the spirit of seizing the day, I crafted a visually bold and ",
+            "caption": "",
+            "frame": "phone"
+          },
+          "textGrid": {
+            "start": 1,
+            "end": 8
+          },
+          "mediaGrid": {
+            "start": 9,
+            "end": 13
+          }
+        },
+        {
+          "_key": "diem-app-10",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "gallerySection",
+          "layout": "carousel",
+          "columns": 3,
+          "images": [
+            {
+              "src": "/media/ea8928d2c0aa.webp",
+              "width": 375,
+              "height": 812,
+              "alt": "diem-app gallery image 1",
+              "caption": "",
+              "frame": "phone"
+            },
+            {
+              "src": "/media/19d70aa88ad2.webp",
+              "width": 376,
+              "height": 812,
+              "alt": "diem-app gallery image 2",
+              "caption": "",
+              "frame": "phone"
+            },
+            {
+              "src": "/media/f1737b8de425.webp",
+              "width": 375,
+              "height": 812,
+              "alt": "diem-app gallery image 3",
+              "caption": "",
+              "frame": "phone"
+            },
+            {
+              "src": "/media/d4d729216c8d.webp",
+              "width": 375,
+              "height": 812,
+              "alt": "diem-app gallery image 4",
+              "caption": "",
+              "frame": "phone"
+            },
+            {
+              "src": "/media/89fe8169d15d.webp",
+              "width": 375,
+              "height": 812,
+              "alt": "diem-app gallery image 5",
+              "caption": "",
+              "frame": "phone"
+            },
+            {
+              "src": "/media/bf69bb34e948.webp",
+              "width": 374,
+              "height": 808,
+              "alt": "diem-app gallery image 6",
+              "caption": "",
+              "frame": "phone"
+            }
+          ]
+        },
+        {
+          "_key": "diem-app-11",
+          "paddingTop": 100,
+          "paddingBottom": 100,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Reflection",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Diem marked my first journey into the realm of conceptualizing an app entirely from scratch.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "At first I was nervous to start designing without a detailed design brief or an existing reference. However, I found confidence in the fact that I had an intimate understanding of the usage context and user goals. After all, I was crafting an app to address a problem I personally encountered.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "With this knowledge, I found my footing and really embraced the creative freedom to craft something entirely my own. ",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "I would love for you to explore the prototype below and let me know your thoughts and feedback. Carpe diem! 😊",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 3,
+            "end": 11
+          }
+        },
+        {
+          "_key": "diem-app-12",
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "_type": "embedSection",
+          "title": "Interactive Diem prototype",
+          "url": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fe7yWmFD3KWFRbTSbhWRm9t%2FDiem-Hi-Fi%3Fpage-id%3D0%253A1%26node-id%3D2%253A397%26viewport%3D241%252C48%252C0.21%26scaling%3Dscale-down%26starting-point-node-id%3D2%253A397"
+        }
+      ]
+    },
+    {
+      "_id": "project-uxresearch",
+      "title": "UX Research",
+      "subtitle": "",
+      "slug": "uxresearch",
+      "order": 5,
+      "thumbnail": {
+        "src": "/media/28647390bfca.webp",
+        "width": 2160,
+        "height": 2160,
+        "alt": "UX Research thumbnail",
+        "caption": "",
+        "frame": "none"
+      },
+      "visibility": "public",
+      "hero": {
+        "title": "UX Research",
+        "subtitle": "Learn and read more about the user research I've conducted below",
+        "background": "#A7BEBE",
+        "textColor": "#ffffff",
+        "textGrid": {
+          "start": 3,
+          "end": 11
+        },
+        "mediaGrid": {
+          "start": 8,
+          "end": 13
+        }
+      },
+      "accent": "#6D9494",
+      "sections": [
+        {
+          "_key": "uxresearch-1",
+          "paddingTop": 100,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Usability Testing — CostcoGrocery Website",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Overview",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "This project was done as part of Dr. Anthony Andre's ISE 215 User Research and Usability Testing course. As a team of 4, we conducted user research to evaluate the usability of Costco's website, with a focus on the homepage and the CostcoGrocery sections.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Project Duration",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Feb 2021 - May 2021",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Key Takeaways",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "We found that many Costco shoppers prefer to shop in-person rather than online, even though one of Costco's recent goals has been expanding and growing their e-commerce platform. Through a series of usability tests conducted through Zoom, our team observed the following pain points from the participants, which negatively affected their online shopping experience:",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "cluttered and disorganized information architecture",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "8",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "inconsistency between items displayed in results",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "9",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "difficulty determining the price of certain items",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "10",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "tediousness when requesting live chat support",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "11",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "12",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "You can ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "read the full report here",
+                  "marks": [
+                    "link0"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": ", or learn more about the ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3",
+                  "text": "redesign I worked on after completing this project here",
+                  "marks": [
+                    "link1"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4",
+                  "text": ".",
+                  "marks": []
+                }
+              ],
+              "markDefs": [
+                {
+                  "_key": "link0",
+                  "_type": "link",
+                  "href": "https://drive.google.com/file/d/1eCaBz-PEsHf_BT9y5ew10htIYgEQJXwj/view?usp=sharing"
+                },
+                {
+                  "_key": "link1",
+                  "_type": "link",
+                  "href": "/p/costco-redesign"
+                }
+              ]
+            },
+            {
+              "_type": "block",
+              "_key": "13",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 3,
+            "end": 11
+          }
+        },
+        {
+          "_key": "uxresearch-2",
+          "paddingTop": 60,
+          "paddingBottom": 60,
+          "_type": "textSection",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0",
+              "style": "h3",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Heuristic Evaluation — Cinemark Mobile Application",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "1",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Overview",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "2",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "This project was done as part of Dr. Anthony Andre's PSYC 273 Seminar in Human Factors course. I methodically examined the Cinemark mobile application against established design heuristics to evaluate the user experience.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "3",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Project Duration",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "4",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Oct 2021 - Dec 2021",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "5",
+              "style": "h4",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Key Takeaways",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "6",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "The interface violated four major usability principles:",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "7",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Consistency and Standards",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "8",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Error Prevention",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "9",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Match between System and the Real World",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "10",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Aesthetic and Minimalist Design",
+                  "marks": []
+                }
+              ],
+              "markDefs": [],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "11",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Due to these violations, the user may have a more difficult time completing the tasks that the application was made for due to deviance from established design patterns. This deviation makes it hard for users to understand and navigate the Cinemark application because they need to spend time searching or trying to understand the interface before proceeding.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "12",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Analysis of the interface showed a total of ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "31 ",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": "usability issues divided into three categories of priority: ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3",
+                  "text": "low ",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4",
+                  "text": "(7 issues), ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "5",
+                  "text": "medium ",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "6",
+                  "text": "(15 issues), and ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "7",
+                  "text": "high ",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "8",
+                  "text": "(9 items). Many of the usability issues can be addressed by implementing minor visual design changes to align the interface with user expectations.",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "13",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "_key": "14",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "Interested in learning more? You can ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "1",
+                  "text": "read the full report here",
+                  "marks": [
+                    "link0"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2",
+                  "text": ".",
+                  "marks": []
+                }
+              ],
+              "markDefs": [
+                {
+                  "_key": "link0",
+                  "_type": "link",
+                  "href": "https://drive.google.com/file/d/1vJ8JBRkAAlkecUhmeEvvfvPOYuphPe7m/view?usp=sharing"
+                }
+              ]
+            },
+            {
+              "_type": "block",
+              "_key": "15",
+              "style": "normal",
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0",
+                  "text": "",
+                  "marks": []
+                }
+              ],
+              "markDefs": []
+            }
+          ],
+          "textGrid": {
+            "start": 3,
+            "end": 11
+          }
+        }
+      ]
+    }
+  ]
+}

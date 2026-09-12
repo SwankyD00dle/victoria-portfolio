@@ -1,0 +1,31 @@
+---
+import { ContactForm } from "@/components/contact-form";
+import PageHeading from "@/components/page-heading.astro";
+import { RichText } from "@/components/rich-text";
+import { getPortfolio } from "@/data/portfolio";
+import PageLayout from "@/layouts/page-layout.astro";
+const { settings } = await getPortfolio();
+const endpoint = import.meta.env.PUBLIC_FORMSPREE_ENDPOINT || undefined;
+if (endpoint && !/^https:\/\/formspree\.io\/f\/[A-Za-z0-9]+$/.test(endpoint))
+  throw new Error("PUBLIC_FORMSPREE_ENDPOINT must be a Formspree form endpoint.");
+---
+
+<PageLayout
+  title="Contact | Victoria Tu"
+  description="Get in touch with Victoria Tu."
+  image={settings.portrait.src}
+>
+  <main id="main" class="contact-page">
+    <PageHeading title="CONTACT" />
+    <section class="contact-section page-container">
+      <div class="content-grid">
+        <div class="contact-intro">
+          <RichText value={settings.contactBody} />
+        </div>
+        <div class="contact-fields">
+          <ContactForm endpoint={endpoint} email={settings.email} client:load />
+        </div>
+      </div>
+    </section>
+  </main>
+</PageLayout>

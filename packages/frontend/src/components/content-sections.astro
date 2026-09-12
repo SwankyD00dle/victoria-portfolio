@@ -1,0 +1,89 @@
+---
+import type { Section } from "@victoria-portfolio/content-schema/types";
+import { ImageGallery } from "@/components/image-gallery";
+import { RichText } from "@/components/rich-text";
+
+type Props = { sections: Section[] };
+const { sections } = Astro.props;
+---
+
+{sections.map((section) => (
+  <section
+    class="content-section"
+    data-section-type={section._type}
+    style={`--padding-top:${section.paddingTop}px;--padding-bottom:${section.paddingBottom}px`}
+  >
+    <div class="page-container">
+      {section._type === "textSection" && (
+        <div class="content-grid">
+          <div
+            class="grid-module"
+            style={`--start:${section.textGrid.start};--end:${section.textGrid.end}`}
+          >
+            <RichText value={section.body} />
+          </div>
+        </div>
+      )}
+      {section._type === "splitSection" && (
+        <div class="content-grid split-grid">
+          <div
+            class="grid-module text-module"
+            style={`--start:${section.textGrid.start};--end:${section.textGrid.end};--mobile-order:${section.textGrid.start < section.mediaGrid.start ? 0 : 1}`}
+          >
+            <RichText value={section.body} />
+          </div>
+          <div
+            class="grid-module media-module"
+            style={`--start:${section.mediaGrid.start};--end:${section.mediaGrid.end};--mobile-order:${section.textGrid.start < section.mediaGrid.start ? 1 : 0}`}
+          >
+            <ImageGallery images={[section.image]} client:visible />
+          </div>
+        </div>
+      )}
+      {section._type === "mediaSection" && (
+        <div class="content-grid">
+          <div
+            class="grid-module"
+            style={`--start:${section.mediaGrid.start};--end:${section.mediaGrid.end}`}
+          >
+            <ImageGallery images={[section.image]} client:visible />
+          </div>
+        </div>
+      )}
+      {section._type === "gallerySection" && (
+        <ImageGallery
+          images={section.images}
+          columns={section.columns}
+          layout={section.layout}
+          client:visible
+        />
+      )}
+      {section._type === "columnsSection" && (
+        <div class={`columns-section columns-count-${section.columns.length}`}>
+          {section.columns.map((column) => (
+            <div>
+              {column.image && <ImageGallery images={[column.image]} client:visible />}
+              <RichText value={column.body} />
+            </div>
+          ))}
+        </div>
+      )}
+      {section._type === "embedSection" && (
+        <div class="prototype-embed">
+          <iframe
+            title={section.title}
+            src={section.url}
+            loading="lazy"
+            allowfullscreen
+            referrerpolicy="strict-origin-when-cross-origin"
+          ></iframe>
+          <p>
+            <a href={section.url} target="_blank" rel="noopener noreferrer">
+              Open {section.title} in a new tab ↗
+            </a>
+          </p>
+        </div>
+      )}
+    </div>
+  </section>
+))}

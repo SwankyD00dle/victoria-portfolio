@@ -1,0 +1,25 @@
+---
+import PageLayout from "@/layouts/page-layout.astro";
+const studio = import.meta.env.SANITY_STUDIO_URL;
+if (studio && new URL(studio).protocol !== "https:")
+  throw new Error("SANITY_STUDIO_URL must use HTTPS.");
+---
+
+<PageLayout title="Portfolio editor" description="Private portfolio editing portal." noindex>
+  <main id="main" class="utility-page page-container">
+    <h1>Portfolio editor</h1>
+    {studio ? (
+      <>
+        <p>Continue to the editing portal and sign in with your invited Google account.</p>
+        <a href={studio} class="pill-button">
+          Open editor
+        </a>
+      </>
+    ) : (
+      <p>The editing portal has not been connected yet.</p>
+    )}
+    <a href="/" class="back-link">
+      ⟵ Back to portfolio
+    </a>
+  </main>
+</PageLayout>
