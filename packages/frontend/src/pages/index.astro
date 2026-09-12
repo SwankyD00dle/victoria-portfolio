@@ -1,0 +1,66 @@
+---
+import { PortfolioImage } from "@/components/portfolio-image";
+import { getPortfolio } from "@/data/portfolio";
+import PageLayout from "@/layouts/page-layout.astro";
+const { settings, projects } = await getPortfolio();
+---
+
+<PageLayout
+  title="Victoria Tu | Product Design Portfolio"
+  description={settings.introduction}
+  image={settings.portrait.src}
+>
+  <main id="main">
+    <section class="home-hero">
+      <div class="page-container">
+        <div class="content-grid home-hero-grid">
+          <div class="home-portrait">
+            <PortfolioImage image={settings.portrait} eager />
+          </div>
+          <div class="home-intro">
+            <h1>{settings.heading}</h1>
+            <h2>{settings.introduction}</h2>
+            <p class="current-role">{settings.currentRole}</p>
+            <nav aria-label="Main navigation" class="home-navigation">
+              <a href="/p/about" class="pill-button">
+                About
+              </a>
+              <a href="/p/contact" class="pill-button">
+                Contact
+              </a>
+              <a
+                href={settings.resume}
+                class="pill-button"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Resumé<span class="sr-only"> (PDF, new tab)</span>
+              </a>
+              <a
+                href={settings.linkedin}
+                class="pill-button"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LinkedIn<span class="sr-only"> (new tab)</span>
+              </a>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="page-container project-grid" aria-label="Selected projects">
+      {projects.map((project) => (
+        <a href={`/p/${project.slug}`} class="project-card" aria-label={`View ${project.title}`}>
+          <div class="project-cover">
+            <PortfolioImage image={project.thumbnail} className="h-full w-full object-cover" />
+          </div>
+          <div class="project-description">
+            <h2>{project.title}</h2>
+            {project.subtitle && <p>{project.subtitle}</p>}
+          </div>
+        </a>
+      ))}
+    </section>
+  </main>
+</PageLayout>

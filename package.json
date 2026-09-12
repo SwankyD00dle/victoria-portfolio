@@ -1,0 +1,52 @@
+{
+  "name": "victoria-portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "npm run dev --workspace @victoria-portfolio/frontend",
+    "build": "npm run build --workspace @victoria-portfolio/frontend",
+    "preview": "npm run preview --workspace @victoria-portfolio/frontend",
+    "studio": "npm run dev --workspace @victoria-portfolio/studio",
+    "studio:build": "npm run build --workspace @victoria-portfolio/studio",
+    "content:import": "node --env-file-if-exists=.env --env-file-if-exists=.env.local --import tsx scripts/import-content.ts",
+    "check": "biome check . && prettier --check \"packages/frontend/src/**/*.astro\" \"packages/frontend/src/styles/*.css\"",
+    "format": "biome check --write . && prettier --write \"packages/frontend/src/**/*.astro\" \"packages/frontend/src/styles/*.css\"",
+    "lint": "biome lint .",
+    "typecheck": "node node_modules/tsc-native/bin/tsc -p tsconfig.tools.json && npm run typecheck --workspaces --if-present",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "fonts": "node scripts/prepare-fonts.mjs",
+    "predev": "npm run fonts",
+    "prebuild": "npm run fonts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.13",
+    "@playwright/test": "^1.63.0",
+    "@sanity/client": "^8.6.1",
+    "@types/node": "^24",
+    "prettier": "^3.9.6",
+    "prettier-plugin-astro": "^1.0.0",
+    "tsc-native": "npm:typescript@^7.0.2",
+    "tsx": "^4.20.6",
+    "vitest": "^5.0.0"
+  },
+  "overrides": {
+    "@vercel/frameworks": {
+      "js-yaml": "3.15.2",
+      "smol-toml": "1.8.0"
+    },
+    "@module-federation/dts-plugin": {
+      "adm-zip": "0.6.1"
+    },
+    "typeid-js": {
+      "uuid": "11.1.1"
+    }
+  }
+}

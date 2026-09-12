@@ -1,0 +1,85 @@
+---
+import ContentSections from "@/components/content-sections.astro";
+import { FramedImage, PortfolioImage } from "@/components/portfolio-image";
+import { getPortfolio } from "@/data/portfolio";
+import PageLayout from "@/layouts/page-layout.astro";
+
+export async function getStaticPaths() {
+  const { projects, settings } = await getPortfolio();
+  return projects.map((project) => ({
+    params: { slug: project.slug },
+    props: { project, settings },
+  }));
+}
+const { project, settings } = Astro.props;
+---
+
+<PageLayout
+  title={`${project.title} | Victoria Tu`}
+  description={project.subtitle || project.title}
+  image={project.thumbnail.src}
+  noindex={project.visibility === "protected"}
+>
+  {project.visibility === "public" ? (
+    <main id="main" class="case-study" style={`--accent:${project.accent}`}>
+      <header
+        class="case-hero"
+        style={`background-color:${project.hero.background};color:${project.hero.textColor}`}
+      >
+        <div class="page-container">
+          <a href="/" class="site-owner" aria-label="Victoria Tu, back to portfolio">
+            <PortfolioImage image={settings.avatar} className="owner-avatar" eager sizes="50px" />
+            <div>
+              <span class="owner-name">{settings.name}</span>
+              <span class="owner-role">{settings.role}</span>
+            </div>
+          </a>
+          <div class="content-grid case-hero-grid">
+            <div
+              class="grid-module hero-copy"
+              style={`--start:${project.hero.textGrid.start};--end:${project.hero.textGrid.end}`}
+            >
+              <h1>{project.hero.title}</h1>
+              <h2>{project.hero.subtitle}</h2>
+            </div>
+            {project.hero.image && (
+              <div
+                class="grid-module hero-media"
+                style={`--start:${project.hero.mediaGrid.start};--end:${project.hero.mediaGrid.end}`}
+              >
+                <FramedImage image={project.hero.image} eager />
+              </div>
+            )}
+          </div>
+        </div>
+      </header>
+      <ContentSections sections={project.sections} />
+      <footer class="case-footer page-container">
+        <a href="/">⟵ Back to portfolio</a>
+      </footer>
+    </main>
+  ) : (
+    <main id="main" class="protected-page page-container">
+      <a href="/" class="back-link">
+        ⟵ Back to portfolio
+      </a>
+      <div class="protected-message">
+        <svg
+          aria-hidden="true"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.3"
+        >
+          <rect x="5" y="10" width="14" height="11" rx="2" />
+          <path d="M8 10V7a4 4 0 0 1 8 0v3" />
+        </svg>
+        <h1>This case study is available on request.</h1>
+        <p>Get in touch to learn more about {project.title.split(" • ")[0]}.</p>
+        <a href="/p/contact" class="pill-button">
+          Request access
+        </a>
+      </div>
+    </main>
+  )}
+</PageLayout>

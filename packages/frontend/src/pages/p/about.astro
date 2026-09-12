@@ -1,0 +1,18 @@
+---
+import ContentSections from "@/components/content-sections.astro";
+import PageHeading from "@/components/page-heading.astro";
+import { getPortfolio } from "@/data/portfolio";
+import PageLayout from "@/layouts/page-layout.astro";
+const { about, settings } = await getPortfolio();
+---
+
+<PageLayout
+  title="About | Victoria Tu"
+  description="Get to know Victoria Tu, a product designer with experience at Cisco and AWS."
+  image={settings.portrait.src}
+>
+  <main id="main" class="about-page">
+    <PageHeading title="ABOUT" />
+    <ContentSections sections={about.sections} />
+  </main>
+</PageLayout>
